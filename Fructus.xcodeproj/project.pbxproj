@@ -20,6 +20,7 @@
 		57DF3F0A28FEF08200D9D055 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0928FEF08200D9D055 /* FruitDetailView.swift */; };
 		57DF3F0C28FEF2AD00D9D055 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0B28FEF2AD00D9D055 /* FruitHeaderView.swift */; };
 		57DF3F0E28FEF46200D9D055 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */; };
+		57DF3F1028FEF5E700D9D055 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		57DF3F0928FEF08200D9D055 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		57DF3F0B28FEF2AD00D9D055 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				57DF3F0728FEEDCB00D9D055 /* FruitRowView.swift */,
 				57DF3F0B28FEF2AD00D9D055 /* FruitHeaderView.swift */,
 				57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */,
+				57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				57DF3F0E28FEF46200D9D055 /* SourceLinkView.swift in Sources */,
 				57DF3EFC28FEC39B00D9D055 /* FruitCardView.swift in Sources */,
 				57DF3F0828FEEDCB00D9D055 /* FruitRowView.swift in Sources */,
+				57DF3F1028FEF5E700D9D055 /* FruitNutrientsView.swift in Sources */,
 				57DF3EFE28FEC5FE00D9D055 /* StartButtonView.swift in Sources */,
 				57DF3F0A28FEF08200D9D055 /* FruitDetailView.swift in Sources */,
 				57DF3EEE28FEC03800D9D055 /* ContentView.swift in Sources */,
