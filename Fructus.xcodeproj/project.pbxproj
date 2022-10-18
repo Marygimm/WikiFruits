@@ -21,6 +21,7 @@
 		57DF3F0C28FEF2AD00D9D055 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0B28FEF2AD00D9D055 /* FruitHeaderView.swift */; };
 		57DF3F0E28FEF46200D9D055 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */; };
 		57DF3F1028FEF5E700D9D055 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */; };
+		57DF3F1228FEF8C800D9D055 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F1128FEF8C800D9D055 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		57DF3F0B28FEF2AD00D9D055 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 		57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		57DF3F1128FEF8C800D9D055 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				57DF3EED28FEC03800D9D055 /* ContentView.swift */,
 				57DF3EFF28FEC86A00D9D055 /* OnboardingView.swift */,
 				57DF3F0928FEF08200D9D055 /* FruitDetailView.swift */,
+				57DF3F1128FEF8C800D9D055 /* SettingsView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				57DF3F0028FEC86A00D9D055 /* OnboardingView.swift in Sources */,
 				57DF3F0328FEC9CD00D9D055 /* FruitModel.swift in Sources */,
 				57DF3EEC28FEC03800D9D055 /* FructusApp.swift in Sources */,
+				57DF3F1228FEF8C800D9D055 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
