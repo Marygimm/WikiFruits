@@ -22,6 +22,7 @@
 		57DF3F0E28FEF46200D9D055 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */; };
 		57DF3F1028FEF5E700D9D055 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */; };
 		57DF3F1228FEF8C800D9D055 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F1128FEF8C800D9D055 /* SettingsView.swift */; };
+		57DF3F1428FEFC1F00D9D055 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DF3F1328FEFC1F00D9D055 /* SettingsLabelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 		57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		57DF3F1128FEF8C800D9D055 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		57DF3F1328FEFC1F00D9D055 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				57DF3F0B28FEF2AD00D9D055 /* FruitHeaderView.swift */,
 				57DF3F0D28FEF46200D9D055 /* SourceLinkView.swift */,
 				57DF3F0F28FEF5E700D9D055 /* FruitNutrientsView.swift */,
+				57DF3F1328FEFC1F00D9D055 /* SettingsLabelView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				57DF3EEE28FEC03800D9D055 /* ContentView.swift in Sources */,
 				57DF3F0C28FEF2AD00D9D055 /* FruitHeaderView.swift in Sources */,
 				57DF3F0028FEC86A00D9D055 /* OnboardingView.swift in Sources */,
+				57DF3F1428FEFC1F00D9D055 /* SettingsLabelView.swift in Sources */,
 				57DF3F0328FEC9CD00D9D055 /* FruitModel.swift in Sources */,
 				57DF3EEC28FEC03800D9D055 /* FructusApp.swift in Sources */,
 				57DF3F1228FEF8C800D9D055 /* SettingsView.swift in Sources */,
